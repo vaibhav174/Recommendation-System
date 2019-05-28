@@ -76,6 +76,15 @@ Snapshot of data:
 | 2         | 17        | 5.0       |
 | ...       | ...       | ...       |
 
+## popularity.py
+
+Easiest way to build a recommendation system is popularity based, simply over all the movies that are popular, So how to identify popular movies?
+Most popular movies could be identified by looking at the average ratings of the movies.
+
+Example, The most Popular movie will have the highest average rating.
+
+Here we sort the movies based of their average rating and predict the top 10 movies.
+
 
 ## content.py
 
