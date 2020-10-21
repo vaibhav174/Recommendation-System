@@ -49,6 +49,6 @@ II.Matrix factorization - It is basically model based collaborative filtering an
 
 Eg: - When a user gives feed back to a certain movie they saw (say they can rate from one to five), this collection of feedback can be represented in a form of a matrix. Where each row represents each users, while each column represents different movies. Obviously the matrix will be sparse since not everyone is going to watch every movies, (we all have different taste when it comes to movies).
 
-3. Hybrid Recommendation systems:
+4. Hybrid Recommendation systems:
 
 Hybrid Recommendation systems are combining collaborative and content-based recommendation can be more effective. Hybrid approaches can be implemented by making content-based and collaborative-based predictions separately and then combining them.
